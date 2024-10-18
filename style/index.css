@@ -1,0 +1,26 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: rgb(45, 42, 42);
+  color: white;
+}
+.eachCetegory {
+  /* background-color: dodgerblue; */
+  border: 2px solid white;
+  padding: 7px 12px;
+  color: white;
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* .nav-font {
+  margin-bottom: 600px;
+} */
+
+.nav-link {
+  margin-bottom: 500px;
+}
